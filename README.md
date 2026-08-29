@@ -32,7 +32,13 @@ ABLS-12.000MHZ-B4-T for this
 
 # Acutual PCB preview 
 
-<img width="861" height="474" alt="Thumbnail" src="https://github.com/user-attachments/assets/548f1b23-0ab1-4747-8e6b-8f9092c0f219" />
+<img width="861" height="474" alt="Thumbnail" src="https://github.com/user-attachments/assets/548f1b23-0ab1-4747-8e6b-8f9092c0f219" />  
+
+# 3D model view in Kicad 
+
+<img width="672" height="603" alt="image" src="https://github.com/user-attachments/assets/f44c7aa3-5bcd-44ce-aa03-fe0cfc3a1074" />
+
+
 
 
 
