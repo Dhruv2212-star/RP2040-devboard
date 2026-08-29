@@ -1,0 +1,20 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,shopping link
+"C1,C2",2,10μF,,,,Capacitor_SMD:C_0603_1608Metric,https://amzn.in/d/0bsal2JG
+"C3,C4,C5,C9,C10,C11,C12,C13,C14,C15",10,100nF,,,,Capacitor_SMD:C_0402_1005Metric,https://amzn.in/d/0h4zQ3Lf
+"C6,C7",2,1µF,,,,Capacitor_SMD:C_0402_1005Metric,https://amzn.in/d/0exjZiSL
+C8,1,100 nF,,,,Capacitor_SMD:C_0402_1005Metric,https://amzn.in/d/0hHEodPN
+"C16,C17",2,27 pF,,,,Capacitor_SMD:C_0402_1005Metric,https://amzn.in/d/0bekUa1Y
+D1,1,LED,,,,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,https://amzn.in/d/0jdhjUcx
+J1,1,USB_C_Receptacle_USB2.0_16P,,,,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,https://amzn.in/d/03EJbP2P
+J2,1,Conn_01x02_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,cut a piece from 1x40 below
+J3,1,Conn_01x04,,,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,cut a piece from 1x40 below
+"J4,J5",2,Conn_01x20,,,,Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical,https://amzn.in/d/06pAoX1t
+"R1,R2",2,5.1K,,,,Resistor_SMD:R_0603_1608Metric,https://amzn.in/d/05xfBy6B
+"R3,R9",2,10 K,,,,Resistor_SMD:R_0402_1005Metric,https://amzn.in/d/02u6eVpk
+"R4,R5",2,27.4,,,,Resistor_SMD:R_0603_1608Metric,https://amzn.in/d/07J2YWcO
+"R6,R7,R8",3,1K,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://amzn.in/d/02u6eVpk
+SW1,1,"RESET, TL3301AF160QG",,,,Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG,https://www.digikey.in/short/r89qvhmn
+U1,1,NCP1117-3.3_TO252,,,,Package_TO_SOT_SMD:TO-252-2,https://www.digikey.in/short/ff3dmq3j
+U2,1,RP2040,,,,Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,https://amzn.in/d/011fsK23
+U3,1,W25Q128JVS,,,,Package_SO:SOIC-8_5.3x5.3mm_P1.27mm,https://www.digikey.in/short/zzb4v2bb
+Y1,1,Crystal,,,,Crystal:Crystal_SMD_HC49-SD,https://www.digikey.in/short/9m893pn7
