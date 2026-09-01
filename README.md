@@ -20,6 +20,32 @@ ABLS-12.000MHZ-B4-T for this
 
 **GPIO pin extensions**- using 1x20 connectors, we extend it to connectors where we can utilize them.  
 
+# BOM ( Bill of materials)  
+## Bill of Materials (BOM)
+
+| Reference          | Qty | Value / Part                | Footprint                               | Purchase                                      |
+| ------------------ | --: | --------------------------- | --------------------------------------- | --------------------------------------------- |
+| C1, C2             |   2 | 10 µF                       | `C_0603_1608Metric`                     | [Link](https://amzn.in/d/0bsal2JG)            |
+| C3, C4, C5, C9–C15 |  10 | 100 nF                      | `C_0402_1005Metric`                     | [Link](https://amzn.in/d/0h4zQ3Lf)            |
+| C6, C7             |   2 | 1 µF                        | `C_0402_1005Metric`                     | [Link](https://amzn.in/d/0exjZiSL)            |
+| C8                 |   1 | 100 nF                      | `C_0402_1005Metric`                     | [Link](https://amzn.in/d/0hHEodPN)            |
+| C16, C17           |   2 | 27 pF                       | `C_0402_1005Metric`                     | [Link](https://amzn.in/d/0bekUa1Y)            |
+| D1                 |   1 | LED                         | `LED_0603_1608Metric`                   | [Link](https://amzn.in/d/0jdhjUcx)            |
+| J1                 |   1 | USB-C Receptacle USB2.0 16P | `USB_C_Receptacle_GCT_USB4105-xx-A_16P` | [Link](https://amzn.in/d/03EJbP2P)            |
+| J2                 |   1 | 1×2 Pin Header              | `PinHeader_1x02_P2.54mm_Vertical`       | Cut from 1×40 header                          |
+| J3                 |   1 | 1×4 Pin Header              | `PinHeader_1x04_P2.54mm_Vertical`       | Cut from 1×40 header                          |
+| J4, J5             |   2 | 1×20 Pin Header             | `PinHeader_1x20_P2.54mm_Vertical`       | [Link](https://amzn.in/d/06pAoX1t)            |
+| R1, R2             |   2 | 5.1 kΩ                      | `R_0603_1608Metric`                     | [Link](https://amzn.in/d/05xfBy6B)            |
+| R3, R9             |   2 | 10 kΩ                       | `R_0402_1005Metric`                     | [Link](https://amzn.in/d/02u6eVpk)            |
+| R4, R5             |   2 | 27.4 Ω                      | `R_0603_1608Metric`                     | [Link](https://amzn.in/d/07J2YWcO)            |
+| R6, R7, R8         |   3 | 1 kΩ                        | `R_0603_1608Metric`                     | [Link](https://amzn.in/d/02u6eVpk)            |
+| SW1                |   1 | RESET — TL3301AF160QG       | `SW_Push_1P1T_NO`                       | [Link](https://www.digikey.in/short/r89qvhmn) |
+| U1                 |   1 | NCP1117-3.3                 | `TO-252-2`                              | [Link](https://www.digikey.in/short/ff3dmq3j) |
+| U2                 |   1 | RP2040                      | `QFN-56-1EP_7x7mm`                      | [Link](https://amzn.in/d/011fsK23)            |
+| U3                 |   1 | W25Q128JVS                  | `SOIC-8_5.3x5.3mm_P1.27mm`              | [Link](https://www.digikey.in/short/zzb4v2bb) |
+| Y1                 |   1 | Crystal                     | `Crystal_SMD_HC49-SD`                   | [Link](https://www.digikey.in/short/9m893pn7) |
+
+
 # Final schematic look: 
 
 <img width="848" height="481" alt="image" src="https://github.com/user-attachments/assets/1f0f263c-ea28-43bc-83b0-067503d9ceb7" />
